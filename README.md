@@ -57,3 +57,16 @@ We trained binary classifiers (`1` for High Severity, `0` for Low Severity) to e
 
 *   **Primary Data Asset:** The simulated international patient records used throughout this predictive modeling were sourced via the [Global Cancer Patient Dataset (2015-2024)](https://colab.research.google.com/github/anmolrawat626/pregrad-major-project/blob/main/global_cancer_patients_2015_2024_Analysis_and_prediction.ipynb).
 *   **Methodology & Frameworks:** Machine Learning pipeline structures, evaluation criteria ($R^2$ scoring, confusion matrix mapping), and exploratory guidelines were adapted from industry-standard documentation provided by `scikit-learn`, `pandas`, and global health informatics frameworks.
+---
+
+## 💻 System Deployment & Replication
+
+To replicate this diagnostic pipeline and run the machine learning notebook locally, execute the following commands in your terminal environment:
+
+```bash
+# Clone the repository asset
+git clone [https://github.com/anmolrawat626/global-cancer-risk-analysis.git](https://github.com/your-username/your-repo-name.git)
+cd your-repo-name
+
+# Initialize environment dependencies
+pip install -r requirements.txt
