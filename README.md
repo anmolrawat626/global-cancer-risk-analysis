@@ -65,8 +65,8 @@ To replicate this diagnostic pipeline and run the machine learning notebook loca
 
 ```bash
 # Clone the repository asset
-git clone [https://github.com/anmolrawat626/global-cancer-risk-analysis.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/anmolrawat626/global-cancer-risk-analysis.git](https://github.com/anmolrawat626/global-cancer-risk-analysis.git)
+cd global-cancer-risk-analysis
 
 # Initialize environment dependencies
 pip install -r requirements.txt
